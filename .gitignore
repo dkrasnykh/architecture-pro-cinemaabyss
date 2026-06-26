@@ -23,7 +23,6 @@ go.work
 _obj
 _test
 bin/
-pkg/
 
 # Dependency directories
 vendor/
