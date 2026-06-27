@@ -15,9 +15,9 @@ import (
 )
 
 const (
-	movieTopic   string = "events.movie.created"
-	userTopic    string = "events.user.created"
-	paymentTopic string = "events.payment.created"
+	movieTopic   string = "movie-events"
+	userTopic    string = "user-events"
+	paymentTopic string = "payment-events"
 )
 
 func main() {
